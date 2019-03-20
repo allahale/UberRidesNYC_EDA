@@ -1,4 +1,6 @@
-# UberRidesNYC_EDA
+# Uber Rides NYC EDA
+
+Authors: Alla Hale, Adam Yang, Armand Kok
 
 In recent years, ride sharing services, lead by Uber, have been rapidly growing in popularity. A big part of the rising popularity of these services is the convenience that allows users to travel on their own timelines, without the hassles of using their own vehicles. They also have an advantage over taxi services because they allow users to plan their trips more accurately by providing estimated arrival times and cost before commitment.
 
